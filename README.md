@@ -33,6 +33,12 @@ and adds a fix for apps like ChatGPT.
 - A flashing taskbar button no longer keeps the taskbar open forever. It
   re-hides after a delay you choose.
 
+**Toggle hotkey**
+
+- A shortcut (Ctrl+Win+T by default) switches between auto-hide and an always
+  visible taskbar. Choose whether "visible" turns auto-hide off, so windows
+  make room, or keeps the taskbar on top of windows.
+
 **Maximized apps that look fullscreen**
 
 Some apps, ChatGPT among them, size their maximized window to exactly fill the
